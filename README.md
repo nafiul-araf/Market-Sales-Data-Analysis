@@ -1,2 +1,4 @@
 # Market-Sales-Data-Analysis
 Sales reports using Power BI
+
+Web Link -> https://app.powerbi.com/view?r=eyJrIjoiYzczZjQxN2EtYjg0My00YzMwLThlYzItMmE5YzgzY2IwYzJhIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D&fbclid=IwY2xjawFqVepleHRuA2FlbQIxMAABHdOLwDqJGHM-Y-FzsN0THkRNXClGLjLTafWQ62nfvhHkvnnwfpQsRAgPAw_aem_m1Gatf574sftYvg2QTV7Yg
