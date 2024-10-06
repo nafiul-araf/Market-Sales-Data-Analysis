@@ -38,7 +38,7 @@ This project involves an in-depth analysis of sales data, focused on understandi
 ## Technologies Used
 
 - **Data Source:** PDF report (Sales data extracted and analyzed)
-- **Tools:** Power BI, Excel (Data visualization and manipulation)
+- **Tools:** Power BI, Power Query (Data visualization and manipulation)
 
 ## Conclusion
 
